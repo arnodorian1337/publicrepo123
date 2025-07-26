@@ -1,6 +1,6 @@
-# publicrepo123
+# Project Title
 
-A brief description of your project.
+A brief description of what this project does and who it's for.
 
 ## Installation
 
@@ -8,42 +8,9 @@ Install my-project with npm
 
 ```bash
   npm install my-project
-```
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
   cd my-project
 ```
 
-Install dependencies
+## Authors
 
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+- [@octocat](https://www.github.com/octocat)
