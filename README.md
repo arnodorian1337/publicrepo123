@@ -1,6 +1,6 @@
-# Project Title
+# publicrepo123
 
-A brief description of what this project does and who it's for.
+A brief description of your project.
 
 ## Installation
 
@@ -11,14 +11,19 @@ Install my-project with npm
   cd my-project
 ```
 
-## Usage/Examples
+## Run Locally
 
-```javascript
-import Component from 'my-project';
+To run this project, you will need to add the following environment variables to your .env file
 
-function App() {
-  return <Component />;
-}
+`API_KEY`
+
+`ANOTHER_API_KEY`
+
+```bash
+  git clone https://link-to-project
+  cd my-project
+  npm install
+  npm start
 ```
 
 ## Contributing
@@ -28,3 +33,7 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
